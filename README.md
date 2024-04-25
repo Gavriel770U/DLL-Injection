@@ -6,7 +6,7 @@ In order to use this you have to disable the Windows Defender
 
 ![Step 1](disable_windows_defender_steps/image.png)
 
-![Step 2](disable_windows_defender_steps/image-.png)
+![Step 2](disable_windows_defender_steps/image-1.png)
 
 ![Step 3](disable_windows_defender_steps/image-2.png)
 
