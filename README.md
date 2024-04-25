@@ -15,3 +15,8 @@ In order to use this you have to disable the Windows Defender
 ![Step 4](disable_windows_defender_steps/image-4.png)
 
 ![Step 5](disable_windows_defender_steps/image-5.png)
+
+## Solutions Build & Run Order
+1. WindowForDLL 
+2. GavriDLL
+3. Inject DLL

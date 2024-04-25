@@ -10,6 +10,6 @@ extern "C"
 {
 	DECLDIR void callMessageBox(void)
 	{
-		system("\"C:\\Users\\Giga Gavriel\\source\\repos\\WindowForDLL\\x64\\Release\\WindowForDLL.exe\"");
+		system(<EXE_TO_OPEN_PATH>);
 	}
 }
