@@ -1,0 +1,7 @@
+﻿  GavriDLL.cpp
+     Creating library C:\Users\Giga Gavriel\source\repos\GavriDLL\Release\GavriDLL.lib and object C:\Users\Giga Gavriel\source\repos\GavriDLL\Release\GavriDLL.exp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 2 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  GavriDLL.vcxproj -> C:\Users\Giga Gavriel\source\repos\GavriDLL\Release\GavriDLL.dll
