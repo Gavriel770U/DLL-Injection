@@ -26,7 +26,9 @@ ________________________________________________________________________________
 ![PID of processes in procexp](find_pid/procexp.png)
 
 ### Task Manager [Taskmgr.exe]
+![Find details in Task Manager](find_pid/taskmgr_find_details.png)
 
+![PID of processes in taskmgr](find_pid/taskmgr.png)
 ______________________________________________________________________________________________________________
 
 ## Solutions Build & Run Order
