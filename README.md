@@ -2,6 +2,8 @@
 For educational purposes !
 This project was made as part of my solution to Magshimim's Architecture final Windows Project.
 
+______________________________________________________________________________________________________________
+
 ## Notes Before Usage
 In order to use this you have to disable the Windows Defender
 
@@ -17,12 +19,15 @@ In order to use this you have to disable the Windows Defender
 
 ![Step 5](disable_windows_defender_steps/image-5.png)
 
+______________________________________________________________________________________________________________
+
 ## Find PID Of Process
 ### SysInternals Process Explorer [procexp.exe]
 ![PID of processes in procexp](find_pid/procexp.png)
 
 ### Task Manager [Taskmgr.exe]
 
+______________________________________________________________________________________________________________
 
 ## Solutions Build & Run Order
 1. WindowForDLL 
